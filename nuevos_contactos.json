@@ -1,0 +1,1052 @@
+[
+    {
+        "id_cliente": "C0167",
+        "nombre": "Samuel",
+        "apellido": "Prats",
+        "correo": "pepito64@example.org",
+        "telefono": 3177166740
+    },
+    {
+        "id_cliente": "C0029",
+        "nombre": "Vicenta",
+        "apellido": "Cañellas",
+        "correo": "spozuelo@example.net",
+        "telefono": 3161737830
+    },
+    {
+        "id_cliente": "C0052",
+        "nombre": "Moreno",
+        "apellido": "Lasa",
+        "correo": "eugeniagascon@example.com",
+        "telefono": 3185278490
+    },
+    {
+        "id_cliente": "C0189",
+        "nombre": "Félix",
+        "apellido": "Nebot",
+        "correo": "iboada@example.net",
+        "telefono": 3114879897
+    },
+    {
+        "id_cliente": "C0038",
+        "nombre": "Leopoldo",
+        "apellido": "Bustamante",
+        "correo": "marquezalma@example.com",
+        "telefono": 3133721924
+    },
+    {
+        "id_cliente": "C0010",
+        "nombre": "Adoración",
+        "apellido": "Saez",
+        "correo": "aguirreaaron@example.net",
+        "telefono": 3132412814
+    },
+    {
+        "id_cliente": "C0045",
+        "nombre": "Máximo",
+        "apellido": "Casares",
+        "correo": "clarisacuenca@example.org",
+        "telefono": 3147616984
+    },
+    {
+        "id_cliente": "C0171",
+        "nombre": "Poncio",
+        "apellido": "Pellicer",
+        "correo": "smanrique@example.net",
+        "telefono": 3143394695
+    },
+    {
+        "id_cliente": "C0120",
+        "nombre": "Alejandra",
+        "apellido": "Donoso",
+        "correo": "fabregaszaira@example.com",
+        "telefono": 3202759892
+    },
+    {
+        "id_cliente": "C0197",
+        "nombre": "Pelayo",
+        "apellido": "Barroso",
+        "correo": "thoyos@example.org",
+        "telefono": 3196621083
+    },
+    {
+        "id_cliente": "C0066",
+        "nombre": "Gema",
+        "apellido": "Arribas",
+        "correo": "anastasio79@example.net",
+        "telefono": 3143776445
+    },
+    {
+        "id_cliente": "C0080",
+        "nombre": "Rosa María",
+        "apellido": "Bayo",
+        "correo": "bautistamauricio@example.org",
+        "telefono": 3136950020
+    },
+    {
+        "id_cliente": "C0084",
+        "nombre": "Jose Ignacio",
+        "apellido": "Pazos",
+        "correo": "alberdiolegario@example.com",
+        "telefono": 3188253719
+    },
+    {
+        "id_cliente": "C0083",
+        "nombre": "Belén",
+        "apellido": "Castañeda",
+        "correo": "jordan98@example.org",
+        "telefono": 3195265007
+    },
+    {
+        "id_cliente": "C0173",
+        "nombre": "Ildefonso",
+        "apellido": "Bernat",
+        "correo": "agustinagarate@example.com",
+        "telefono": 3198943818
+    },
+    {
+        "id_cliente": "C0121",
+        "nombre": "Felicidad",
+        "apellido": "Boada",
+        "correo": "sierrachus@example.org",
+        "telefono": 3113451719
+    },
+    {
+        "id_cliente": "C0023",
+        "nombre": "Juliana",
+        "apellido": "Medina",
+        "correo": "ljimenez@example.com",
+        "telefono": 3156223874
+    },
+    {
+        "id_cliente": "C0183",
+        "nombre": "Chelo",
+        "apellido": "Ferrera",
+        "correo": "vmanzanares@example.com",
+        "telefono": 3226197530
+    },
+    {
+        "id_cliente": "C0118",
+        "nombre": "Erasmo",
+        "apellido": "Lara",
+        "correo": "talaveraesteban@example.com",
+        "telefono": 3132423159
+    },
+    {
+        "id_cliente": "C0135",
+        "nombre": "Alba",
+        "apellido": "Oliva",
+        "correo": "carino@example.org",
+        "telefono": 3103147298
+    },
+    {
+        "id_cliente": "C0109",
+        "nombre": "Marcial",
+        "apellido": "Alcalá",
+        "correo": "pinillaetelvina@example.org",
+        "telefono": 3199106961
+    },
+    {
+        "id_cliente": "C0060",
+        "nombre": "Jose Miguel",
+        "apellido": "Ugarte",
+        "correo": "belmonteelba@example.org",
+        "telefono": 3159241442
+    },
+    {
+        "id_cliente": "C0098",
+        "nombre": "Gertrudis",
+        "apellido": "Verdú",
+        "correo": "noatejada@example.org",
+        "telefono": 3101055235
+    },
+    {
+        "id_cliente": "C0106",
+        "nombre": "Ágata",
+        "apellido": "Amaya",
+        "correo": "lastramamen@example.net",
+        "telefono": 3135221472
+    },
+    {
+        "id_cliente": "C0099",
+        "nombre": "Jaime",
+        "apellido": "Ariza",
+        "correo": "morenamarmol@example.org",
+        "telefono": 3164751168
+    },
+    {
+        "id_cliente": "C0136",
+        "nombre": "Zaida",
+        "apellido": "Calderón",
+        "correo": "iglesiaariadna@example.net",
+        "telefono": 3204620137
+    },
+    {
+        "id_cliente": "C0086",
+        "nombre": "Bibiana",
+        "apellido": "Anglada",
+        "correo": "corona67@example.net",
+        "telefono": 3126572512
+    },
+    {
+        "id_cliente": "C0166",
+        "nombre": "Jovita",
+        "apellido": "Quirós",
+        "correo": "agapitojauregui@example.com",
+        "telefono": 3138569816
+    },
+    {
+        "id_cliente": "C0061",
+        "nombre": "Bernardita",
+        "apellido": "Manuel",
+        "correo": "famo@example.org",
+        "telefono": 3211324112
+    },
+    {
+        "id_cliente": "C0065",
+        "nombre": "Lupita",
+        "apellido": "Gracia",
+        "correo": "ortegajuan-antonio@example.com",
+        "telefono": 3158904276
+    },
+    {
+        "id_cliente": "C0160",
+        "nombre": "Epifanio",
+        "apellido": "Castelló",
+        "correo": "macariolastra@example.net",
+        "telefono": 3125545096
+    },
+    {
+        "id_cliente": "C0144",
+        "nombre": "Tristán",
+        "apellido": "Guillen",
+        "correo": "zacariasluz@example.org",
+        "telefono": 3151256968
+    },
+    {
+        "id_cliente": "C0003",
+        "nombre": "Dora",
+        "apellido": "Vazquez",
+        "correo": "pozuelodora@example.net",
+        "telefono": 3204196063
+    },
+    {
+        "id_cliente": "C0137",
+        "nombre": "Tamara",
+        "apellido": "Moya",
+        "correo": "cbanos@example.com",
+        "telefono": 3127304923
+    },
+    {
+        "id_cliente": "C0022",
+        "nombre": "Ligia",
+        "apellido": "Pedro",
+        "correo": "ambrosio79@example.net",
+        "telefono": 3109679084
+    },
+    {
+        "id_cliente": "C0021",
+        "nombre": "Adelardo",
+        "apellido": "Heras",
+        "correo": "saturnina10@example.com",
+        "telefono": 3157341228
+    },
+    {
+        "id_cliente": "C0062",
+        "nombre": "Esther",
+        "apellido": "Alcalá",
+        "correo": "narcisa21@example.com",
+        "telefono": 3168236877
+    },
+    {
+        "id_cliente": "C0190",
+        "nombre": "Herberto",
+        "apellido": "Noguera",
+        "correo": "jlloret@example.net",
+        "telefono": 3151788700
+    },
+    {
+        "id_cliente": "C0030",
+        "nombre": "Jacinto",
+        "apellido": "Solera",
+        "correo": "desideriougarte@example.net",
+        "telefono": 3196527751
+    },
+    {
+        "id_cliente": "C0072",
+        "nombre": "Evita",
+        "apellido": "Lledó",
+        "correo": "pepito44@example.org",
+        "telefono": 3215978756
+    },
+    {
+        "id_cliente": "C0181",
+        "nombre": "Alex",
+        "apellido": "Bárcena",
+        "correo": "ybarrio@example.net",
+        "telefono": 3167160656
+    },
+    {
+        "id_cliente": "C0112",
+        "nombre": "Serafina",
+        "apellido": "Sánchez",
+        "correo": "ibarrena@example.com",
+        "telefono": 3123969647
+    },
+    {
+        "id_cliente": "C0155",
+        "nombre": "Jose Manuel",
+        "apellido": "Morcillo",
+        "correo": "maria-jesuscanete@example.com",
+        "telefono": 3114469084
+    },
+    {
+        "id_cliente": "C0150",
+        "nombre": "Sandra",
+        "apellido": "Pelayo",
+        "correo": "candelarocha@example.com",
+        "telefono": 3207298757
+    },
+    {
+        "id_cliente": "C0195",
+        "nombre": "Oriana",
+        "apellido": "Agudo",
+        "correo": "rpoza@example.net",
+        "telefono": 3192932399
+    },
+    {
+        "id_cliente": "C0008",
+        "nombre": "Olalla",
+        "apellido": "Amaya",
+        "correo": "matavalentina@example.org",
+        "telefono": 3171763999
+    },
+    {
+        "id_cliente": "C0067",
+        "nombre": "Jerónimo",
+        "apellido": "Oller",
+        "correo": "mfont@example.org",
+        "telefono": 3218386098
+    },
+    {
+        "id_cliente": "C0068",
+        "nombre": "María Luisa",
+        "apellido": "Osorio",
+        "correo": "buenoalfredo@example.org",
+        "telefono": 3105049406
+    },
+    {
+        "id_cliente": "C0069",
+        "nombre": "Salomé",
+        "apellido": "Rodrigo",
+        "correo": "porcelmaite@example.org",
+        "telefono": 3107396607
+    },
+    {
+        "id_cliente": "C0188",
+        "nombre": "Zaira",
+        "apellido": "Cano",
+        "correo": "santamariasantiago@example.org",
+        "telefono": 3205228486
+    },
+    {
+        "id_cliente": "C0147",
+        "nombre": "Amelia",
+        "apellido": "Arco",
+        "correo": "gaston47@example.net",
+        "telefono": 3164430426
+    },
+    {
+        "id_cliente": "C0041",
+        "nombre": "Pastor",
+        "apellido": "Solano",
+        "correo": "xprieto@example.net",
+        "telefono": 3126216189
+    },
+    {
+        "id_cliente": "C0194",
+        "nombre": "Evangelina",
+        "apellido": "Vera",
+        "correo": "kugarte@example.org",
+        "telefono": 3116610302
+    },
+    {
+        "id_cliente": "C0159",
+        "nombre": "Trinidad",
+        "apellido": "Ruiz",
+        "correo": "escalonaadora@example.org",
+        "telefono": 3144273179
+    },
+    {
+        "id_cliente": "C0180",
+        "nombre": "Antonio",
+        "apellido": "Escrivá",
+        "correo": "sanchovalentina@example.org",
+        "telefono": 3157443869
+    },
+    {
+        "id_cliente": "C0087",
+        "nombre": "Brígida",
+        "apellido": "Jordán",
+        "correo": "fatimavina@example.com",
+        "telefono": 3143492112
+    },
+    {
+        "id_cliente": "C0148",
+        "nombre": "Balduino",
+        "apellido": "Fabra",
+        "correo": "teofilo41@example.org",
+        "telefono": 3141768845
+    },
+    {
+        "id_cliente": "C0184",
+        "nombre": "Isidro",
+        "apellido": "Morante",
+        "correo": "avilaignacio@example.org",
+        "telefono": 3199558375
+    },
+    {
+        "id_cliente": "C0097",
+        "nombre": "Joel",
+        "apellido": "Agustín",
+        "correo": "schico@example.org",
+        "telefono": 3126771651
+    },
+    {
+        "id_cliente": "C0025",
+        "nombre": "Sarita",
+        "apellido": "Roura",
+        "correo": "romanjoel@example.net",
+        "telefono": 3182335615
+    },
+    {
+        "id_cliente": "C0174",
+        "nombre": "África",
+        "apellido": "Duran",
+        "correo": "belen72@example.com",
+        "telefono": 3151034766
+    },
+    {
+        "id_cliente": "C0088",
+        "nombre": "Marc",
+        "apellido": "Clavero",
+        "correo": "javilara@example.com",
+        "telefono": 3119184758
+    },
+    {
+        "id_cliente": "C0179",
+        "nombre": "Jordana",
+        "apellido": "Sancho",
+        "correo": "ayalamaxima@example.org",
+        "telefono": 3152624865
+    },
+    {
+        "id_cliente": "C0162",
+        "nombre": "Mohamed",
+        "apellido": "Anguita",
+        "correo": "juan-carlossalas@example.com",
+        "telefono": 3216410946
+    },
+    {
+        "id_cliente": "C0079",
+        "nombre": "Nadia",
+        "apellido": "Talavera",
+        "correo": "nicolasa47@example.com",
+        "telefono": 3179882029
+    },
+    {
+        "id_cliente": "C0093",
+        "nombre": "Tadeo",
+        "apellido": "Bellido",
+        "correo": "kgallego@example.com",
+        "telefono": 3205697566
+    },
+    {
+        "id_cliente": "C0126",
+        "nombre": "Daniela",
+        "apellido": "Cantón",
+        "correo": "martinagordillo@example.org",
+        "telefono": 3173663687
+    },
+    {
+        "id_cliente": "C0157",
+        "nombre": "Máximo",
+        "apellido": "Mayol",
+        "correo": "aragoneshector@example.org",
+        "telefono": 3118863535
+    },
+    {
+        "id_cliente": "C0015",
+        "nombre": "Belén",
+        "apellido": "Trujillo",
+        "correo": "vanesa54@example.net",
+        "telefono": 3144995004
+    },
+    {
+        "id_cliente": "C0134",
+        "nombre": "Gil",
+        "apellido": "Reyes",
+        "correo": "maximino61@example.org",
+        "telefono": 3183757719
+    },
+    {
+        "id_cliente": "C0027",
+        "nombre": "Almudena",
+        "apellido": "Asensio",
+        "correo": "orianarossello@example.com",
+        "telefono": 3158461744
+    },
+    {
+        "id_cliente": "C0007",
+        "nombre": "Chelo",
+        "apellido": "Palomares",
+        "correo": "tamara74@example.com",
+        "telefono": 3107439409
+    },
+    {
+        "id_cliente": "C0154",
+        "nombre": "Alejandra",
+        "apellido": "Sala",
+        "correo": "graciela67@example.net",
+        "telefono": 3158415844
+    },
+    {
+        "id_cliente": "C0115",
+        "nombre": "Samanta",
+        "apellido": "Ávila",
+        "correo": "solerjose-luis@example.com",
+        "telefono": 3182284782
+    },
+    {
+        "id_cliente": "C0095",
+        "nombre": "Francisco Javier",
+        "apellido": "Marí",
+        "correo": "rdomingo@example.org",
+        "telefono": 3194365661
+    },
+    {
+        "id_cliente": "C0142",
+        "nombre": "Cipriano",
+        "apellido": "Escamilla",
+        "correo": "apolinar33@example.org",
+        "telefono": 3216744361
+    },
+    {
+        "id_cliente": "C0143",
+        "nombre": "Julia",
+        "apellido": "Martínez",
+        "correo": "solmurillo@example.org",
+        "telefono": 3122688832
+    },
+    {
+        "id_cliente": "C0102",
+        "nombre": "Maxi",
+        "apellido": "Grande",
+        "correo": "artemio34@example.com",
+        "telefono": 3131162269
+    },
+    {
+        "id_cliente": "C0172",
+        "nombre": "Ámbar",
+        "apellido": "Herranz",
+        "correo": "sernafelipa@example.org",
+        "telefono": 3141506466
+    },
+    {
+        "id_cliente": "C0001",
+        "nombre": "Roldán",
+        "apellido": "Luque",
+        "correo": "parraestefania@example.org",
+        "telefono": 3129009824
+    },
+    {
+        "id_cliente": "C0004",
+        "nombre": "Marta",
+        "apellido": "Gallo",
+        "correo": "javi05@example.org",
+        "telefono": 3211333293
+    },
+    {
+        "id_cliente": "C0089",
+        "nombre": "Magdalena",
+        "apellido": "Alsina",
+        "correo": "lidia12@example.com",
+        "telefono": 3108782605
+    },
+    {
+        "id_cliente": "C0161",
+        "nombre": "Severino",
+        "apellido": "Jordá",
+        "correo": "haroldocarrasco@example.org",
+        "telefono": 3173360806
+    },
+    {
+        "id_cliente": "C0063",
+        "nombre": "Edelmiro",
+        "apellido": "Cerdá",
+        "correo": "cgalindo@example.org",
+        "telefono": 3167594209
+    },
+    {
+        "id_cliente": "C0130",
+        "nombre": "Guadalupe",
+        "apellido": "Oller",
+        "correo": "eutimiogoni@example.com",
+        "telefono": 3192000041
+    },
+    {
+        "id_cliente": "C0196",
+        "nombre": "Ruperto",
+        "apellido": "Ruiz",
+        "correo": "dacero@example.com",
+        "telefono": 3208146285
+    },
+    {
+        "id_cliente": "C0128",
+        "nombre": "Vicente",
+        "apellido": "Lucas",
+        "correo": "teresa35@example.net",
+        "telefono": 3144396058
+    },
+    {
+        "id_cliente": "C0132",
+        "nombre": "Juan Manuel",
+        "apellido": "Corominas",
+        "correo": "avalentin@example.com",
+        "telefono": 3127463907
+    },
+    {
+        "id_cliente": "C0037",
+        "nombre": "Gerónimo",
+        "apellido": "Alfaro",
+        "correo": "ambrosio85@example.com",
+        "telefono": 3118279681
+    },
+    {
+        "id_cliente": "C0057",
+        "nombre": "Febe",
+        "apellido": "Puga",
+        "correo": "kmorales@example.com",
+        "telefono": 3201932850
+    },
+    {
+        "id_cliente": "C0164",
+        "nombre": "Jose Carlos",
+        "apellido": "Contreras",
+        "correo": "apolinarcruz@example.org",
+        "telefono": 3146838601
+    },
+    {
+        "id_cliente": "C0198",
+        "nombre": "Alex",
+        "apellido": "Melero",
+        "correo": "maristela77@example.net",
+        "telefono": 3196607554
+    },
+    {
+        "id_cliente": "C0031",
+        "nombre": "Teófilo",
+        "apellido": "Capdevila",
+        "correo": "dorita29@example.net",
+        "telefono": 3189136535
+    },
+    {
+        "id_cliente": "C0040",
+        "nombre": "María Fernanda",
+        "apellido": "Saez",
+        "correo": "palacioosvaldo@example.net",
+        "telefono": 3126094993
+    },
+    {
+        "id_cliente": "C0101",
+        "nombre": "Severiano",
+        "apellido": "Palomino",
+        "correo": "cuestaofelia@example.com",
+        "telefono": 3214893033
+    },
+    {
+        "id_cliente": "C0156",
+        "nombre": "Daniela",
+        "apellido": "Duran",
+        "correo": "rosarocamora@example.org",
+        "telefono": 3144266846
+    },
+    {
+        "id_cliente": "C0051",
+        "nombre": "Carla",
+        "apellido": "Trillo",
+        "correo": "rbermudez@example.com",
+        "telefono": 3172369453
+    },
+    {
+        "id_cliente": "C0119",
+        "nombre": "Arcelia",
+        "apellido": "Poza",
+        "correo": "leonardo47@example.org",
+        "telefono": 3161435417
+    },
+    {
+        "id_cliente": "C0020",
+        "nombre": "Olga",
+        "apellido": "Saura",
+        "correo": "martorellricarda@example.net",
+        "telefono": 3101116049
+    },
+    {
+        "id_cliente": "C0103",
+        "nombre": "Lino",
+        "apellido": "Robles",
+        "correo": "benignaroca@example.org",
+        "telefono": 3176352842
+    },
+    {
+        "id_cliente": "C0078",
+        "nombre": "Leandra",
+        "apellido": "Escamilla",
+        "correo": "castilloalberto@example.net",
+        "telefono": 3159673884
+    },
+    {
+        "id_cliente": "C0055",
+        "nombre": "Tania",
+        "apellido": "Valle",
+        "correo": "franchjosefina@example.net",
+        "telefono": 3178422044
+    },
+    {
+        "id_cliente": "C0071",
+        "nombre": "Jordana",
+        "apellido": "Pedrero",
+        "correo": "riquelmeluna@example.net",
+        "telefono": 3155737286
+    },
+    {
+        "id_cliente": "C0176",
+        "nombre": "Custodia",
+        "apellido": "Ferreras",
+        "correo": "felixduran@example.org",
+        "telefono": 3174820615
+    },
+    {
+        "id_cliente": "C0149",
+        "nombre": "Cándido",
+        "apellido": "Guitart",
+        "correo": "feliciana72@example.org",
+        "telefono": 3158459886
+    },
+    {
+        "id_cliente": "C0012",
+        "nombre": "Iris",
+        "apellido": "Alfonso",
+        "correo": "ignacioizaguirre@example.com",
+        "telefono": 3177147211
+    },
+    {
+        "id_cliente": "C0009",
+        "nombre": "David",
+        "apellido": "Mosquera",
+        "correo": "crespogeraldo@example.com",
+        "telefono": 3113714661
+    },
+    {
+        "id_cliente": "C0185",
+        "nombre": "Candelaria",
+        "apellido": "Campo",
+        "correo": "porrasmarcos@example.net",
+        "telefono": 3139922279
+    },
+    {
+        "id_cliente": "C0114",
+        "nombre": "Vinicio",
+        "apellido": "Pelayo",
+        "correo": "ncarrion@example.org",
+        "telefono": 3132098890
+    },
+    {
+        "id_cliente": "C0033",
+        "nombre": "Sancho",
+        "apellido": "Ortiz",
+        "correo": "dan39@example.net",
+        "telefono": 3221821583
+    },
+    {
+        "id_cliente": "C0011",
+        "nombre": "Abraham",
+        "apellido": "Valbuena",
+        "correo": "fsanchez@example.com",
+        "telefono": 3141038992
+    },
+    {
+        "id_cliente": "C0096",
+        "nombre": "Custodia",
+        "apellido": "Carbó",
+        "correo": "xcarretero@example.com",
+        "telefono": 3117132184
+    },
+    {
+        "id_cliente": "C0193",
+        "nombre": "Eliseo",
+        "apellido": "Morell",
+        "correo": "venceslascollado@example.org",
+        "telefono": 3229702840
+    },
+    {
+        "id_cliente": "C0081",
+        "nombre": "Coral",
+        "apellido": "Ferrando",
+        "correo": "deliaserrano@example.org",
+        "telefono": 3217089116
+    },
+    {
+        "id_cliente": "C0018",
+        "nombre": "Ciriaco",
+        "apellido": "Adadia",
+        "correo": "tomeamalia@example.org",
+        "telefono": 3125868681
+    },
+    {
+        "id_cliente": "C0110",
+        "nombre": "Calisto",
+        "apellido": "Asenjo",
+        "correo": "amaliachacon@example.net",
+        "telefono": 3216157178
+    },
+    {
+        "id_cliente": "C0139",
+        "nombre": "Rogelio",
+        "apellido": "Alfonso",
+        "correo": "svallejo@example.org",
+        "telefono": 3182643503
+    },
+    {
+        "id_cliente": "C0152",
+        "nombre": "Alma",
+        "apellido": "Armengol",
+        "correo": "doragimeno@example.org",
+        "telefono": 3175529712
+    },
+    {
+        "id_cliente": "C0123",
+        "nombre": "Jacinta",
+        "apellido": "Jordán",
+        "correo": "escalonaanita@example.net",
+        "telefono": 3116976452
+    },
+    {
+        "id_cliente": "C0085",
+        "nombre": "Eva",
+        "apellido": "Boix",
+        "correo": "nando53@example.com",
+        "telefono": 3113011969
+    },
+    {
+        "id_cliente": "C0054",
+        "nombre": "Petrona",
+        "apellido": "Catalá",
+        "correo": "emiliano70@example.com",
+        "telefono": 3222198122
+    },
+    {
+        "id_cliente": "C0090",
+        "nombre": "Amparo",
+        "apellido": "Garrido",
+        "correo": "ignacio57@example.com",
+        "telefono": 3168348495
+    },
+    {
+        "id_cliente": "C0140",
+        "nombre": "Dani",
+        "apellido": "Vidal",
+        "correo": "hfuentes@example.org",
+        "telefono": 3103473677
+    },
+    {
+        "id_cliente": "C0042",
+        "nombre": "Alfonso",
+        "apellido": "Bou",
+        "correo": "agustinamora@example.com",
+        "telefono": 3154708895
+    },
+    {
+        "id_cliente": "C0048",
+        "nombre": "Inmaculada",
+        "apellido": "Sánchez",
+        "correo": "cepedaanita@example.com",
+        "telefono": 3215622433
+    },
+    {
+        "id_cliente": "C0182",
+        "nombre": "Juanito",
+        "apellido": "Villalobos",
+        "correo": "fitobartolome@example.com",
+        "telefono": 3196938258
+    },
+    {
+        "id_cliente": "C0076",
+        "nombre": "Inés",
+        "apellido": "Segovia",
+        "correo": "armandoarrieta@example.org",
+        "telefono": 3195695889
+    },
+    {
+        "id_cliente": "C0056",
+        "nombre": "Filomena",
+        "apellido": "Torralba",
+        "correo": "jaimemartin@example.org",
+        "telefono": 3129695741
+    },
+    {
+        "id_cliente": "C0059",
+        "nombre": "Agustín",
+        "apellido": "Robles",
+        "correo": "dominguezalvaro@example.com",
+        "telefono": 3219298406
+    },
+    {
+        "id_cliente": "C0082",
+        "nombre": "Lola",
+        "apellido": "Toledo",
+        "correo": "cristian41@example.net",
+        "telefono": 3168381830
+    },
+    {
+        "id_cliente": "C0028",
+        "nombre": "Consuela",
+        "apellido": "Mendez",
+        "correo": "uverdugo@example.net",
+        "telefono": 3104888025
+    },
+    {
+        "id_cliente": "C0091",
+        "nombre": "Casemiro",
+        "apellido": "Núñez",
+        "correo": "zcamino@example.com",
+        "telefono": 3221000593
+    },
+    {
+        "id_cliente": "C0169",
+        "nombre": "Modesta",
+        "apellido": "Murillo",
+        "correo": "carmonaherberto@example.org",
+        "telefono": 3144019098
+    },
+    {
+        "id_cliente": "C0141",
+        "nombre": "Víctor",
+        "apellido": "Rodríguez",
+        "correo": "ucarmona@example.org",
+        "telefono": 3211493402
+    },
+    {
+        "id_cliente": "C0105",
+        "nombre": "Amparo",
+        "apellido": "Bartolomé",
+        "correo": "rosalvamateu@example.net",
+        "telefono": 3159757860
+    },
+    {
+        "id_cliente": "C0131",
+        "nombre": "Cebrián",
+        "apellido": "Menéndez",
+        "correo": "mauravalbuena@example.net",
+        "telefono": 3155032997
+    },
+    {
+        "id_cliente": "C0014",
+        "nombre": "Juanito",
+        "apellido": "Lozano",
+        "correo": "rolandohuerta@example.com",
+        "telefono": 3188984396
+    },
+    {
+        "id_cliente": "C0005",
+        "nombre": "Violeta",
+        "apellido": "Boada",
+        "correo": "ramireznoemi@example.net",
+        "telefono": 3167669065
+    },
+    {
+        "id_cliente": "C0177",
+        "nombre": "Domingo",
+        "apellido": "Macías",
+        "correo": "vmilla@example.com",
+        "telefono": 3136125958
+    },
+    {
+        "id_cliente": "C0002",
+        "nombre": "Ámbar",
+        "apellido": "Luís",
+        "correo": "alejandro77@example.org",
+        "telefono": 3113695660
+    },
+    {
+        "id_cliente": "C0013",
+        "nombre": "Paloma",
+        "apellido": "Varela",
+        "correo": "urbanoandres@example.net",
+        "telefono": 3122999040
+    },
+    {
+        "id_cliente": "C0100",
+        "nombre": "Marcela",
+        "apellido": "Gámez",
+        "correo": "artemio93@example.org",
+        "telefono": 3174182073
+    },
+    {
+        "id_cliente": "C0175",
+        "nombre": "Faustino",
+        "apellido": "Frías",
+        "correo": "nevadoroberta@example.com",
+        "telefono": 3128829588
+    },
+    {
+        "id_cliente": "C0187",
+        "nombre": "Aurora",
+        "apellido": "Viana",
+        "correo": "remigio54@example.org",
+        "telefono": 3186740462
+    },
+    {
+        "id_cliente": "C0046",
+        "nombre": "Yaiza",
+        "apellido": "Sanmiguel",
+        "correo": "aurelianobravo@example.org",
+        "telefono": 3114293161
+    },
+    {
+        "id_cliente": "C0168",
+        "nombre": "Nidia",
+        "apellido": "Fabregat",
+        "correo": "maximino79@example.com",
+        "telefono": 3107916676
+    },
+    {
+        "id_cliente": "C0050",
+        "nombre": "Candelario",
+        "apellido": "Osuna",
+        "correo": "canellasnacio@example.com",
+        "telefono": 3149287841
+    },
+    {
+        "id_cliente": "C0039",
+        "nombre": "Vanesa",
+        "apellido": "Losa",
+        "correo": "ambrosiosantana@example.com",
+        "telefono": 3167302114
+    },
+    {
+        "id_cliente": "C0124",
+        "nombre": "Pepito",
+        "apellido": "Tapia",
+        "correo": "aguilarprudencio@example.com",
+        "telefono": 3211365456
+    },
+    {
+        "id_cliente": "C0170",
+        "nombre": "Nazaret",
+        "apellido": "Palomares",
+        "correo": "jamador@example.net",
+        "telefono": 3165198619
+    }
+]
